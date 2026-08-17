@@ -197,29 +197,29 @@ A professional **company portfolio website** created to showcase the organizatio
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hatem--medhat/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="46" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/hatem.medhat.266822">
-    <img src="https://skillicons.dev/icons?i=facebook" width="42" alt="Facebook">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="46" alt="Facebook">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/7vt0m/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="42" alt="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="46" alt="Instagram">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/hatem247">
-    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="46" alt="GitHub">
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:hatemmedhat247@gmail.com">
-    <img src="https://img.shields.io/badge/hatemmedhat247%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+    <strong>✉️ hatemmedhat247@gmail.com</strong>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="tel:+201148207363">
-    <img src="https://img.shields.io/badge/%2B20%20114%20820%207363-0D1117?style=for-the-badge&logo=phone&logoColor=58A6FF" alt="Phone">
+    <strong>📞 +20 114 820 7363</strong>
   </a>
 </p>
 
