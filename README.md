@@ -123,7 +123,14 @@
 
 ---
 
-## Featured Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Build%20with%20Purpose-0D1117?style=for-the-badge" alt="Build with Purpose">
+  <img src="https://img.shields.io/badge/Design%20for%20Maintainability-0D1117?style=for-the-badge" alt="Design for Maintainability">
+  <img src="https://img.shields.io/badge/Secure%20by%20Default-0D1117?style=for-the-badge" alt="Secure by Default">
+  <img src="https://img.shields.io/badge/Always%20Keep%20Learning-0D1117?style=for-the-badge" alt="Always Keep Learning">
+</p>
+
+---
 
 ## Featured Projects
 
