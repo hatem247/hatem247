@@ -76,73 +76,71 @@ I enjoy turning ideas into complete software solutions while continuously improv
 ## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### 🔐 CAS Login Backend
+<h3>🔐 CAS Login Backend</h3>
 
-A centralized authentication and authorization backend built with **ASP.NET Core**, focused on secure identity integration and API-based access control.
+<p>A centralized authentication and authorization backend built with <strong>ASP.NET Core</strong>, focused on secure identity integration and API-based access control.</p>
 
-**Stack**
+<p><strong>Stack</strong><br>
+<code>C#</code> <code>ASP.NET Core</code> <code>JWT</code> <code>SQL Server</code>
+</p>
 
-`C#` `ASP.NET Core` `JWT` `SQL Server`
-
+<p>
 <a href="https://github.com/hatem247/CAS-Login-Back-End">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
 </a>
+</p>
 
-```
 </td>
+
 <td width="50%" valign="top">
-```
 
-### 🛒 E-Commerce Web API
+<h3>🛒 E-Commerce Web API</h3>
 
-A backend API demonstrating **RESTful API development, business logic, database integration, and backend architecture**.
+<p>A backend API demonstrating <strong>RESTful API development, business logic, database integration, and backend architecture</strong>.</p>
 
-**Stack**
+<p><strong>Stack</strong><br>
+<code>C#</code> <code>ASP.NET Core</code> <code>EF Core</code> <code>SQL Server</code>
+</p>
 
-`C#` `ASP.NET Core` `EF Core` `SQL Server`
-
+<p>
 <a href="https://github.com/hatem247/E-Commerce-Web-API">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
 </a>
+</p>
 
-```
 </td>
-```
+</tr>
 
-  </tr>
+<tr>
 
-  <tr>
-    <td width="50%" valign="top">
-
-### 🛍️ Creators Corner
-
-A mobile e-commerce platform connecting customers with local brands through **product discovery, comparison, payments, delivery, ratings, and communication**.
-
-**Stack**
-
-`Flutter` `Dart` `ASP.NET Core` `REST API`
-
-```
-</td>
 <td width="50%" valign="top">
-```
 
-### 🌐 ElSewedy Portfolio Website
+<h3>🛍️ Creators Corner</h3>
 
-A professional **company portfolio website** created to showcase the organization's services, projects, and digital presence through a responsive web experience.
+<p>A mobile e-commerce platform connecting customers with local brands through <strong>product discovery, comparison, payments, delivery, ratings, and communication</strong>.</p>
 
-**Stack**
+<p><strong>Stack</strong><br>
+<code>Flutter</code> <code>Dart</code> <code>ASP.NET Core</code> <code>REST API</code>
+</p>
 
-`HTML` `CSS` `JavaScript` `Responsive Design`
-
-```
 </td>
-```
 
-  </tr>
+<td width="50%" valign="top">
+
+<h3>🌐 ElSewedy Portfolio Website</h3>
+
+<p>A professional <strong>company portfolio website</strong> created to showcase the organization's services, projects, and digital presence through a responsive web experience.</p>
+
+<p><strong>Stack</strong><br>
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Responsive Design</code>
+</p>
+
+</td>
+
+</tr>
 </table>
 
 ---
