@@ -172,6 +172,18 @@ A professional **company portfolio website** created to showcase the organizatio
 
 ---
 
+## GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  >
+</p>
+
+---
+
 ## Connect With Me
 
 <p align="center">
