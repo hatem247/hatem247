@@ -6,13 +6,8 @@
 
 ### Backend Developer · ASP.NET Core · REST APIs · Flutter
 
-<p align="left">
-  <a href="https://github.com/hatem247">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/hatem--medhat/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<p align="center">
+  Building scalable APIs, maintainable applications, and practical software solutions.
 </p>
 
 ---
@@ -21,7 +16,11 @@
 
 I’m a software developer focused on **backend engineering and application development**.
 
-My main focus is building **RESTful APIs and business applications** with an emphasis on clean code, maintainable architecture, authentication, database design, and real-world functionality.
+My primary focus is building **RESTful APIs and business applications** with an emphasis on clean code, maintainable architecture, authentication and authorization, database design, and real-world functionality.
+
+I enjoy turning ideas into complete software solutions while continuously improving my engineering skills and development practices.
+
+---
 
 ## Tech Stack
 
@@ -59,12 +58,6 @@ My main focus is building **RESTful APIs and business applications** with an emp
   <img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge" alt="Clean Architecture">
 </p>
 
-
-
-### Currently Focused On
-
-Building production-ready software, improving backend architecture, and continuously developing my skills through real-world projects.
-
 ---
 
 ## Featured Projects
@@ -87,7 +80,7 @@ A mobile e-commerce platform designed to connect customers with local brands thr
 
 ### 🌐 ElSewedy Portfolio Website
 
-A professional **company portfolio website** developed to showcase ElSewedy's organization, services, projects, and digital presence through a modern and responsive web experience.
+A professional **company portfolio website** developed to showcase ElSewedy’s organization, services, projects, and digital presence through a modern and responsive web experience.
 
 `HTML` `CSS` `JavaScript` `Responsive Design` `Web Development`
 
@@ -98,20 +91,6 @@ A professional **company portfolio website** developed to showcase ElSewedy's or
 A backend API for an e-commerce platform, demonstrating **RESTful API development, business logic, database integration, and backend application architecture**.
 
 `C#` `ASP.NET Core` `REST API` `Entity Framework Core` `SQL Server`
-
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="Hatem's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages">
-</p>
-
 
 ---
 
@@ -137,11 +116,10 @@ A backend API for an e-commerce platform, demonstrating **RESTful API developmen
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="tel:+201148207363">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
+    <img src="https://img.shields.io/badge/Phone-111827?style=for-the-badge&logoColor=white" alt="Phone">
   </a>
 </p>
 
 <p align="center">
   <i>Building software, solving problems, and continuously improving.</i>
 </p>
-
