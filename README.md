@@ -41,6 +41,22 @@ I enjoy turning ideas into complete software solutions while continuously improv
 
 ---
 
+## Profile Highlights
+
+<p align="center">
+  <strong>Backend Development</strong> ·
+  <strong>REST API Design</strong> ·
+  <strong>Authentication & Authorization</strong> ·
+  <strong>Database Engineering</strong> ·
+  <strong>Flutter Applications</strong>
+</p>
+
+<p align="center">
+  <i>Focused on building clean, maintainable, and production-ready software.</i>
+</p>
+
+---
+
 ## Tech Stack
 
 <table>
