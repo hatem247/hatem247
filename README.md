@@ -185,8 +185,8 @@ A professional **company portfolio website** created to showcase the organizatio
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake animation"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hatem247&theme=react-dark&bg_color=0D1117&color=58A6FF&line=7C3AED&point=38BDF8&area=true&hide_border=true&custom_title=Hatem%20Medhat's%20Activity"
+    alt="Hatem Medhat's GitHub Activity"
     width="100%"
   >
 </p>
