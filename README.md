@@ -111,6 +111,8 @@
   </tr>
 </table>
 
+---
+
 ### Architecture & Engineering
 
 <p align="center">
@@ -120,8 +122,9 @@
   <img src="https://img.shields.io/badge/API%20Integration-111827?style=for-the-badge" alt="API Integration">
 </p>
 
-
 ---
+
+## Development Philosophy
 
 <p align="center">
   <img src="https://img.shields.io/badge/Build%20with%20Purpose-0D1117?style=for-the-badge" alt="Build with Purpose">
