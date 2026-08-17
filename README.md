@@ -71,17 +71,17 @@
 
 ---
 
-## Developer Mindset
+## Engineering Focus
 
 <p align="center">
-  <i>
-    “I believe good software is built with clean architecture, thoughtful design,
-    and a constant focus on solving real problems.”
-  </i>
+  <img src="https://img.shields.io/badge/Clean%20Code-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Clean Code">
+  <img src="https://img.shields.io/badge/Scalable%20Architecture-0D1117?style=for-the-badge&logoColor=7C3AED" alt="Scalable Architecture">
+  <img src="https://img.shields.io/badge/Secure%20APIs-0D1117?style=for-the-badge&logoColor=38BDF8" alt="Secure APIs">
+  <img src="https://img.shields.io/badge/Database%20Design-0D1117?style=for-the-badge&logoColor=CC2927" alt="Database Design">
 </p>
 
 <p align="center">
-  <strong>Build → Learn → Improve → Repeat</strong>
+  Designing software with a balance of <strong>performance, security, maintainability, and usability</strong>.
 </p>
 
 ---
