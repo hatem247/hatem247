@@ -219,7 +219,7 @@ A professional **company portfolio website** created to showcase the organizatio
   </a>
   &nbsp;
   <a href="tel:+201148207363">
-  <img src="https://img.shields.io/badge/%2B20%20114%20820%207363-0D1117?style=for-the-badge&logo=googlevoice&logoColor=58A6FF" alt="Phone">
+  <img src="https://img.shields.io/badge/%F0%9F%93%9E%20%2B20%20114%20820%207363-0D1117?style=for-the-badge" alt="Phone">
 </a>
 </p>
 
