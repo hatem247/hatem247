@@ -34,7 +34,7 @@ My main focus is building **RESTful APIs and business applications** with an emp
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
 </p>
 
 ### Mobile
@@ -43,18 +43,22 @@ My main focus is building **RESTful APIs and business applications** with an emp
   <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart">
 </p>
 
-### Tools
+### Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman" alt="Git, GitHub and Postman">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
 </p>
 
-### Backend & Development
+### Frameworks & Architecture
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core">
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge" alt="Clean Architecture">
+</p>
+
 
 
 ### Currently Focused On
@@ -100,9 +104,13 @@ A backend API for an e-commerce platform, demonstrating **RESTful API developmen
 
 ## GitHub Activity
 
-![Hatem's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatem247\&show_icons=true\&hide_border=true\&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hatem247&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="Hatem's GitHub Stats">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hatem247\&layout=compact\&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatem247&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
+</p>
 
 ---
 
