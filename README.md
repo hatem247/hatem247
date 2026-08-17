@@ -75,35 +75,75 @@ I enjoy turning ideas into complete software solutions while continuously improv
 
 ## Featured Projects
 
-### 🔐 [CAS Login Backend](https://github.com/hatem247/CAS-Login-Back-End)
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-A centralized authentication and authorization backend built with **ASP.NET Core**, designed to provide secure identity integration for connected applications.
+### 🔐 CAS Login Backend
 
-`C#` `ASP.NET Core` `REST API` `JWT` `Authentication` `Authorization` `SQL Server`
+A centralized authentication and authorization backend built with **ASP.NET Core**, focused on secure identity integration and API-based access control.
 
----
+**Stack**
+
+`C#` `ASP.NET Core` `JWT` `SQL Server`
+
+<a href="https://github.com/hatem247/CAS-Login-Back-End">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+</a>
+
+```
+</td>
+<td width="50%" valign="top">
+```
+
+### 🛒 E-Commerce Web API
+
+A backend API demonstrating **RESTful API development, business logic, database integration, and backend architecture**.
+
+**Stack**
+
+`C#` `ASP.NET Core` `EF Core` `SQL Server`
+
+<a href="https://github.com/hatem247/E-Commerce-Web-API">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+</a>
+
+```
+</td>
+```
+
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🛍️ Creators Corner
 
-A mobile e-commerce platform designed to connect customers with local brands through **product discovery, comparison, payments, delivery, ratings, and communication**.
+A mobile e-commerce platform connecting customers with local brands through **product discovery, comparison, payments, delivery, ratings, and communication**.
 
-`Flutter` `Dart` `ASP.NET Core` `REST API` `SQL Server` `E-Commerce`
+**Stack**
 
----
+`Flutter` `Dart` `ASP.NET Core` `REST API`
+
+```
+</td>
+<td width="50%" valign="top">
+```
 
 ### 🌐 ElSewedy Portfolio Website
 
-A professional **company portfolio website** developed to showcase ElSewedy’s organization, services, projects, and digital presence through a modern and responsive web experience.
+A professional **company portfolio website** created to showcase the organization's services, projects, and digital presence through a responsive web experience.
 
-`HTML` `CSS` `JavaScript` `Responsive Design` `Web Development`
+**Stack**
 
----
+`HTML` `CSS` `JavaScript` `Responsive Design`
 
-### 🛒 [E-Commerce Web API](https://github.com/hatem247/E-Commerce-Web-API)
+```
+</td>
+```
 
-A backend API for an e-commerce platform, demonstrating **RESTful API development, business logic, database integration, and backend application architecture**.
-
-`C#` `ASP.NET Core` `REST API` `Entity Framework Core` `SQL Server`
+  </tr>
+</table>
 
 ---
 
