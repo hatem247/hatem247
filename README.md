@@ -22,6 +22,25 @@ I enjoy turning ideas into complete software solutions while continuously improv
 
 ---
 
+## What I Build
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Systems-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Backend Systems">
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs">
+  <img src="https://img.shields.io/badge/Database%20Driven%20Apps-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Database Driven Applications">
+  <img src="https://img.shields.io/badge/Mobile%20Applications-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile Applications">
+</p>
+
+<p align="center">
+  <strong>Authentication</strong> ·
+  <strong>Authorization</strong> ·
+  <strong>API Development</strong> ·
+  <strong>Database Design</strong> ·
+  <strong>Application Architecture</strong>
+</p>
+
+---
+
 ## Tech Stack
 
 <table>
