@@ -75,73 +75,45 @@ I enjoy turning ideas into complete software solutions while continuously improv
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🔐 CAS Login Backend
 
-<h3>🔐 CAS Login Backend</h3>
+A centralized **authentication and authorization backend** built with ASP.NET Core, designed for secure identity integration and API-based access control.
 
-<p>A centralized authentication and authorization backend built with <strong>ASP.NET Core</strong>, focused on secure identity integration and API-based access control.</p>
+**Technologies:** `C#` · `ASP.NET Core` · `JWT` · `SQL Server` · `REST API`
 
-<p><strong>Stack</strong><br>
-<code>C#</code> <code>ASP.NET Core</code> <code>JWT</code> <code>SQL Server</code>
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hatem247/CAS-Login-Back-End)
+
+---
+
+### 🛒 E-Commerce Web API
+
+A backend-focused e-commerce API demonstrating **RESTful API design, business logic, database integration, and maintainable backend architecture**.
+
+**Technologies:** `C#` · `ASP.NET Core` · `Entity Framework Core` · `SQL Server` · `REST API`
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hatem247/E-Commerce-Web-API)
+
+---
+
+### 🛍️ Creators Corner
+
+A mobile e-commerce platform connecting customers with local brands through **product discovery, comparison, payments, delivery, ratings, and communication**.
+
+**Technologies:** `Flutter` · `Dart` · `ASP.NET Core` · `REST API` · `SQL Server`
+
+---
+
+### 🌐 ElSewedy Portfolio Website
+
+A professional **company portfolio website** created to showcase the organization's services, projects, and digital presence through a modern and responsive web experience.
+
+**Technologies:** `HTML` · `CSS` · `JavaScript` · `Responsive Design`
+
+---
+
+<p align="center">
+  <i>More projects and experiments are available throughout my repositories.</i>
 </p>
-
-<p>
-<a href="https://github.com/hatem247/CAS-Login-Back-End">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🛒 E-Commerce Web API</h3>
-
-<p>A backend API demonstrating <strong>RESTful API development, business logic, database integration, and backend architecture</strong>.</p>
-
-<p><strong>Stack</strong><br>
-<code>C#</code> <code>ASP.NET Core</code> <code>EF Core</code> <code>SQL Server</code>
-</p>
-
-<p>
-<a href="https://github.com/hatem247/E-Commerce-Web-API">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
-</a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🛍️ Creators Corner</h3>
-
-<p>A mobile e-commerce platform connecting customers with local brands through <strong>product discovery, comparison, payments, delivery, ratings, and communication</strong>.</p>
-
-<p><strong>Stack</strong><br>
-<code>Flutter</code> <code>Dart</code> <code>ASP.NET Core</code> <code>REST API</code>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🌐 ElSewedy Portfolio Website</h3>
-
-<p>A professional <strong>company portfolio website</strong> created to showcase the organization's services, projects, and digital presence through a responsive web experience.</p>
-
-<p><strong>Stack</strong><br>
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Responsive Design</code>
-</p>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
