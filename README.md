@@ -4,7 +4,12 @@
 
 # Hatem Medhat
 
-### Backend Developer · ASP.NET Core · REST APIs · Flutter
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Developer;ASP.NET+Core+%7C+C%23+%7C+REST+APIs;Building+Scalable+%26+Maintainable+Software"
+    alt="Typing animation"
+  />
+</p>
 
 <p align="center">
   Building scalable APIs, maintainable applications, and practical software solutions.
