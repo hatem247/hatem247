@@ -65,21 +65,36 @@ Building production-ready software, improving backend architecture, and continuo
 
 ## Featured Projects
 
-### 🔐 CAS Login Backend
+### 🔐 [CAS Login Backend](https://github.com/hatem247/CAS-Login-Back-End)
 
-A centralized ASP.NET Core authentication and authorization backend designed to provide secure access to connected applications.
+A centralized authentication and authorization backend built with **ASP.NET Core**, designed to provide secure identity integration for connected applications.
 
-### 🏋️ Gym Management System
+`C#` `ASP.NET Core` `REST API` `JWT` `Authentication` `Authorization` `SQL Server`
 
-A complete management system for gym operations, including customer management, subscriptions, attendance, freezing, and financial records.
-
-### 💃 Dance Station Management System
-
-A modern Flutter management application integrated with an ASP.NET Core Web API, using clean architecture, Riverpod, Dio, and secure local storage.
+---
 
 ### 🛍️ Creators Corner
 
-A mobile e-commerce platform designed to connect customers with local brands through product discovery, comparison, payments, delivery, ratings, and communication.
+A mobile e-commerce platform designed to connect customers with local brands through **product discovery, comparison, payments, delivery, ratings, and communication**.
+
+`Flutter` `Dart` `ASP.NET Core` `REST API` `SQL Server` `E-Commerce`
+
+---
+
+### 🌐 ElSewedy Portfolio Website
+
+A professional **company portfolio website** developed to showcase ElSewedy's organization, services, projects, and digital presence through a modern and responsive web experience.
+
+`HTML` `CSS` `JavaScript` `Responsive Design` `Web Development`
+
+---
+
+### 🛒 [E-Commerce Web API](https://github.com/hatem247/E-Commerce-Web-API)
+
+A backend API for an e-commerce platform, demonstrating **RESTful API development, business logic, database integration, and backend application architecture**.
+
+`C#` `ASP.NET Core` `REST API` `Entity Framework Core` `SQL Server`
+
 
 ---
 
