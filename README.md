@@ -57,6 +57,21 @@ I enjoy turning ideas into complete software solutions while continuously improv
 
 ---
 
+## Developer Mindset
+
+<p align="center">
+  <i>
+    “I believe good software is built with clean architecture, thoughtful design,
+    and a constant focus on solving real problems.”
+  </i>
+</p>
+
+<p align="center">
+  <strong>Build → Learn → Improve → Repeat</strong>
+</p>
+
+---
+
 ## Tech Stack
 
 <table>
