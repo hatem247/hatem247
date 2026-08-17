@@ -19,11 +19,20 @@
 
 ## About Me
 
-I’m a software developer focused on **backend engineering and application development**.
+<p align="center">
+  <strong>Backend-focused software developer building secure, scalable, and maintainable applications.</strong>
+</p>
 
-My primary focus is building **RESTful APIs and business applications** with an emphasis on clean code, maintainable architecture, authentication and authorization, database design, and real-world functionality.
+<p align="center">
+  I specialize in <strong>ASP.NET Core</strong>, RESTful API development, authentication & authorization,
+  database-driven applications, and Flutter integration.
+</p>
 
-I enjoy turning ideas into complete software solutions while continuously improving my engineering skills and development practices.
+<p align="center">
+  <strong>Clean Code</strong> ·
+  <strong>Good Architecture</strong> ·
+  <strong>Real-World Solutions</strong>
+</p>
 
 ---
 
