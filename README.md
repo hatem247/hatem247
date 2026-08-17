@@ -23,13 +23,39 @@ I’m a software developer focused on **backend engineering and application deve
 
 My main focus is building **RESTful APIs and business applications** with an emphasis on clean code, maintainable architecture, authentication, database design, and real-world functionality.
 
-### Core Technologies
+## Tech Stack
 
-* **Backend:** C#, ASP.NET Core, Entity Framework Core
-* **Database:** SQL Server
-* **Mobile:** Flutter, Dart
-* **Architecture:** Clean Architecture, REST API architecture
-* **Tools:** Git, GitHub, Swagger, Postman
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# and .NET">
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server">
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart">
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" alt="Git, GitHub and Postman">
+</p>
+
+### Backend & Development
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+
 
 ### Currently Focused On
 
