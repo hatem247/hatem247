@@ -36,37 +36,23 @@
 
 ---
 
-## What I Build
+## Core Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Systems-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Backend Systems">
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs">
-  <img src="https://img.shields.io/badge/Database%20Driven%20Apps-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Database Driven Applications">
+  <img src="https://img.shields.io/badge/Backend%20Engineering-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Backend Engineering">
+  <img src="https://img.shields.io/badge/REST%20API%20Design-005571?style=for-the-badge" alt="REST API Design">
+  <img src="https://img.shields.io/badge/Authentication%20%26%20Authorization-111827?style=for-the-badge" alt="Authentication and Authorization">
+  <img src="https://img.shields.io/badge/Database%20Engineering-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Database Engineering">
   <img src="https://img.shields.io/badge/Mobile%20Applications-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile Applications">
+  <img src="https://img.shields.io/badge/Application%20Architecture-111827?style=for-the-badge" alt="Application Architecture">
 </p>
 
 <p align="center">
-  <strong>Authentication</strong> ·
-  <strong>Authorization</strong> ·
-  <strong>API Development</strong> ·
+  <strong>Clean Architecture</strong> ·
+  <strong>API Integration</strong> ·
   <strong>Database Design</strong> ·
-  <strong>Application Architecture</strong>
-</p>
-
----
-
-## Profile Highlights
-
-<p align="center">
-  <strong>Backend Development</strong> ·
-  <strong>REST API Design</strong> ·
-  <strong>Authentication & Authorization</strong> ·
-  <strong>Database Engineering</strong> ·
-  <strong>Flutter Applications</strong>
-</p>
-
-<p align="center">
-  <i>Focused on building clean, maintainable, and production-ready software.</i>
+  <strong>Secure Systems</strong> ·
+  <strong>Maintainable Software</strong>
 </p>
 
 ---
