@@ -213,3 +213,9 @@ A professional **company portfolio website** created to showcase the organizatio
 <p align="center">
   <i>Building software, solving problems, and continuously improving.</i>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer" width="100%" alt="Animated footer">
+</p>
