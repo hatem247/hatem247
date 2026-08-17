@@ -105,12 +105,13 @@ A backend API for an e-commerce platform, demonstrating **RESTful API developmen
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hatem247&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="Hatem's GitHub Stats">
+  <img src="./profile/stats.svg" alt="Hatem's GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatem247&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
+  <img src="./profile/top-langs.svg" alt="Top Languages">
 </p>
+
 
 ---
 
