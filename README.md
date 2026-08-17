@@ -125,11 +125,15 @@
 
 ## Featured Projects
 
+## Featured Projects
+
 ### 🔐 CAS Login Backend
 
-A centralized **authentication and authorization backend** built with ASP.NET Core, designed for secure identity integration and API-based access control.
+A centralized **authentication and authorization backend** built with ASP.NET Core for integrating secure login and identity management across connected applications.
 
-**Technologies:** `C#` · `ASP.NET Core` · `JWT` · `SQL Server` · `REST API`
+**Highlights:** JWT authentication · Authorization · Secure API design · SQL Server · Swagger
+
+**Technologies:** `C#` · `ASP.NET Core` · `Entity Framework Core` · `SQL Server` · `REST API`
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hatem247/CAS-Login-Back-End)
 
@@ -137,7 +141,9 @@ A centralized **authentication and authorization backend** built with ASP.NET Co
 
 ### 🛒 E-Commerce Web API
 
-A backend-focused e-commerce API demonstrating **RESTful API design, business logic, database integration, and maintainable backend architecture**.
+A backend-focused e-commerce API designed around **RESTful services, business logic, database operations, and maintainable application architecture**.
+
+**Highlights:** Product management · Business logic · Database integration · RESTful endpoints · API documentation
 
 **Technologies:** `C#` · `ASP.NET Core` · `Entity Framework Core` · `SQL Server` · `REST API`
 
@@ -147,7 +153,9 @@ A backend-focused e-commerce API demonstrating **RESTful API design, business lo
 
 ### 🛍️ Creators Corner
 
-A mobile e-commerce platform connecting customers with local brands through **product discovery, comparison, payments, delivery, ratings, and communication**.
+A mobile e-commerce platform created to connect customers with local brands through **product discovery, comparison, purchasing, delivery, ratings, and communication**.
+
+**Highlights:** Product discovery · Product comparison · Payments · Delivery · Ratings · Chat
 
 **Technologies:** `Flutter` · `Dart` · `ASP.NET Core` · `REST API` · `SQL Server`
 
@@ -155,7 +163,9 @@ A mobile e-commerce platform connecting customers with local brands through **pr
 
 ### 🌐 ElSewedy Portfolio Website
 
-A professional **company portfolio website** created to showcase the organization's services, projects, and digital presence through a modern and responsive web experience.
+A professional **company portfolio website** created to present the organization's identity, services, projects, and digital presence through a modern responsive experience.
+
+**Highlights:** Responsive design · Company presentation · Project showcase · Modern UI · Cross-device experience
 
 **Technologies:** `HTML` · `CSS` · `JavaScript` · `Responsive Design`
 
