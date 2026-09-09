@@ -217,6 +217,9 @@ A professional **company portfolio website** created to present the organization
   <a href="https://github.com/hatem247">
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="46" alt="GitHub">
   </a>
+  <a href="https://hatem-portfolio.pages.dev/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
+    <i class="fas fa-external-link-alt"></i>
+</a>
 </p>
 
 <p align="center">
