@@ -15,6 +15,15 @@
   Building scalable APIs, maintainable applications, and practical software solutions.
 </p>
 
+<p align="center">
+  <a href="https://hatem-portfolio.pages.dev/">
+    <img
+      src="https://img.shields.io/badge/Visit%20My%20Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117"
+      alt="Visit My Portfolio"
+    >
+  </a>
+</p>
+
 ---
 
 ## About Me
@@ -84,6 +93,7 @@
       <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core">
       <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square" alt="REST API">
     </td>
+
     <td align="center" width="50%">
       <h3>Database</h3>
       <br>
@@ -101,6 +111,7 @@
       <img src="https://img.shields.io/badge/Riverpod-0D47A1?style=flat-square" alt="Riverpod">
       <img src="https://img.shields.io/badge/Dio-1565C0?style=flat-square" alt="Dio">
     </td>
+
     <td align="center" width="50%">
       <h3>Tools</h3>
       <img src="https://skillicons.dev/icons?i=git,github,postman" alt="Git, GitHub and Postman">
@@ -145,7 +156,7 @@ A centralized **authentication and authorization backend** built with ASP.NET Co
 
 **Technologies:** `C#` · `ASP.NET Core` · `Entity Framework Core` · `SQL Server` · `REST API`
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hatem247/CAS-Login-Back-End)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hatem247/CAS-Login-Back-End)
 
 ---
 
@@ -157,7 +168,7 @@ A backend-focused e-commerce API designed around **RESTful services, business lo
 
 **Technologies:** `C#` · `ASP.NET Core` · `Entity Framework Core` · `SQL Server` · `REST API`
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hatem247/E-Commerce-Web-API)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hatem247/E-Commerce-Web-API)
 
 ---
 
@@ -171,13 +182,37 @@ A mobile e-commerce platform created to connect customers with local brands thro
 
 ---
 
-### 🌐 ElSewedy Portfolio Website
+### 🖥️ Gym Management System
 
-A professional **company portfolio website** created to present the organization's identity, services, projects, and digital presence through a modern responsive experience.
+A desktop management application for handling **gym members, subscriptions, attendance, subscription freezing, and financial records** through a practical business-focused workflow.
 
-**Highlights:** Responsive design · Company presentation · Project showcase · Modern UI · Cross-device experience
+**Technologies:** `C#` · `WPF` · `EPPlus` · `Excel` · `Desktop Application`
 
-**Technologies:** `HTML` · `CSS` · `JavaScript` · `Responsive Design`
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hatem247/GymManagementSystem)
+
+---
+
+### 🏫 ElSewedy Projects
+
+A school-wide digital platform designed to **manage and automate internal processes across departments**, replacing paper-based workflows with centralized digital processes and improving coordination, efficiency, and operational visibility.
+
+**Technologies:** `ASP.NET Core` · `C#` · `SQL Server` · `Entity Framework Core` · `Process Automation`
+
+---
+
+### 🌐 ElSewedy IATS Portfolio
+
+A professional portfolio website for **ElSewedy IATS**, showcasing the school, its departments, activities, projects, achievements, and educational environment through a modern responsive experience.
+
+**Technologies:** `HTML` · `CSS` · `JavaScript` · `Responsive Design` · `Web Development`
+
+---
+
+### ⚡ ElSewedy Electrometer Portfolio
+
+A professional corporate portfolio website created to showcase **ElSewedy Electrometer**, its business profile, services, projects, and digital presence through a modern responsive experience.
+
+**Technologies:** `HTML` · `CSS` · `JavaScript` · `Responsive Design` · `Web Development`
 
 ---
 
@@ -202,43 +237,79 @@ A professional **company portfolio website** created to present the organization
 ## Connect With Me
 
 <p align="center">
+  <a href="https://hatem-portfolio.pages.dev/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117"
+      alt="Portfolio"
+    >
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hatemmedhat1/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="42"
+      alt="LinkedIn"
+    >
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/hatem.medhat.266822">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="46" alt="Facebook">
+    <img
+      src="https://cdn.simpleicons.org/facebook/1877F2"
+      width="46"
+      alt="Facebook"
+    >
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/7vt0m/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="46" alt="Instagram">
+    <img
+      src="https://cdn.simpleicons.org/instagram/E4405F"
+      width="46"
+      alt="Instagram"
+    >
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/hatem247">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="46" alt="GitHub">
+    <img
+      src="https://cdn.simpleicons.org/github/FFFFFF"
+      width="46"
+      alt="GitHub"
+    >
   </a>
-  <a href="https://hatem-portfolio.pages.dev/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
-    <i class="fas fa-external-link-alt"></i>
-</a>
 </p>
 
 <p align="center">
   <a href="mailto:hatemmedhat247@gmail.com">
-    <img src="https://img.shields.io/badge/hatemmedhat247%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+    <img
+      src="https://img.shields.io/badge/hatemmedhat247%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
+      alt="Email"
+    >
   </a>
-  &nbsp;
-  <a href="tel:+201148207363">
-  <img src="https://img.shields.io/badge/%F0%9F%93%9E%20%2B20%20114%20820%207363-0D1117?style=for-the-badge" alt="Phone">
-</a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/201148207363">
+    <img
+      src="https://img.shields.io/badge/WhatsApp%20%2B20%20114%20820%207363-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"
+      alt="WhatsApp 01148207363"
+    >
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/201022110886">
+    <img
+      src="https://img.shields.io/badge/WhatsApp%20%2B20%20102%20211%200886-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"
+      alt="WhatsApp 01022110886"
+    >
+  </a>
 </p>
 
 <p align="center">
   <i>Open to building interesting software and meaningful projects.</i>
 </p>
 
-
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer" width="100%" alt="Animated footer">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer"
+    width="100%"
+    alt="Animated footer"
+  >
 </p>
