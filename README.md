@@ -253,21 +253,11 @@ A mobile e-commerce platform designed to connect customers with local brands thr
 
 ---
 
-### 🗳️ Who's Up — Elections System
+### 🗳️ SUE — Students Union Elections System
 
 An elections-related web system developed to support digital election workflows and provide a centralized interface for the platform.
 
 **Focus:** `Web Application Development` · `Digital Workflows` · `System Delivery`
-
-**Repository:** Team project.
-
----
-
-### 🎨 AB-UI-Gallery — UI Gallery
-
-A user-interface gallery project focused on presenting and organizing interface components and UI examples.
-
-**Focus:** `UI Development` · `Component Presentation` · `Web Development`
 
 **Repository:** Team project.
 
@@ -295,7 +285,7 @@ A desktop management application for handling gym members, subscriptions, attend
 
 ---
 
-### 💃 Dance Station Management System — In Progress
+### 💃 Dance Station Management System
 
 A Flutter mobile application project with an ASP.NET Core Web API backend, planned around dance-studio management workflows.
 
