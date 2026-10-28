@@ -171,7 +171,7 @@ A backend-focused e-commerce API designed around **RESTful services, business lo
 
 ---
 
-### 🛍️ Creators Corner
+### 🛍️ Creators Corner E-Commerce System
 
 A mobile e-commerce platform created to connect customers with local brands through **product discovery, comparison, purchasing, delivery, ratings, and communication**.
 
