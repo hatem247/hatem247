@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.gif" alt="Hatem Medhat - Backend Developer" width="100%">
+  <img src="assets/my-profile-banner.gif" alt="Hatem Medhat - Backend Developer" width="100%">
 </p>
 
 # Hatem Medhat
