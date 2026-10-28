@@ -225,12 +225,16 @@ A professional corporate portfolio website created to showcase **ElSewedy Electr
 ## GitHub Contributions
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hatem247&theme=react-dark&bg_color=0D1117&color=58A6FF&line=7C3AED&point=38BDF8&area=true&hide_border=true&custom_title=Hatem%20Medhat's%20Activity"
-    alt="Hatem Medhat's GitHub Activity"
-    width="100%"
-  >
+  <a href="https://github.com/hatem247">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hatem247&theme=github_dark"
+      alt="Hatem Medhat's GitHub contribution overview"
+      width="100%"
+    >
+  </a>
 </p>
+
+---
 
 ---
 
