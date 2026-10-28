@@ -83,44 +83,43 @@
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# and .NET">
-      <br><br>
-      <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core">
-      <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core">
-      <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square" alt="REST API">
-    </td>
+### ⚙️ Backend Development
 
-    <td align="center" width="50%">
-      <h3>Database</h3>
-      <br>
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-      <br><br>
-      <img src="https://img.shields.io/badge/Database%20Design-111827?style=flat-square" alt="Database Design">
-    </td>
-  </tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# and .NET">
+</p>
 
-  <tr>
-    <td align="center" width="50%">
-      <h3>Mobile</h3>
-      <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart">
-      <br><br>
-      <img src="https://img.shields.io/badge/Riverpod-0D47A1?style=flat-square" alt="Riverpod">
-      <img src="https://img.shields.io/badge/Dio-1565C0?style=flat-square" alt="Dio">
-    </td>
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core">
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square" alt="REST API">
+</p>
 
-    <td align="center" width="50%">
-      <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,postman" alt="Git, GitHub and Postman">
-      <br><br>
-      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger">
-      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio">
-    </td>
-  </tr>
-</table>
+### 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mssql" alt="Microsoft SQL Server">
+  <br><br>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Database%20Design-111827?style=flat-square" alt="Database Design">
+</p>
+
+### 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart">
+  <br><br>
+  <img src="https://img.shields.io/badge/Riverpod-0D47A1?style=flat-square" alt="Riverpod">
+  <img src="https://img.shields.io/badge/Dio-1565C0?style=flat-square" alt="Dio">
+</p>
+
+### 🛠️ Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio" alt="Git, GitHub, Postman and Visual Studio">
+  <br><br>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger">
+</p>
 
 ---
 
